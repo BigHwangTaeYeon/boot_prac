@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-HwangApplication<hwang>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "test1.hwang.HwangApplication",
+            "projectName": "hwang",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
